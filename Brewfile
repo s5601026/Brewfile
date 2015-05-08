@@ -4,23 +4,18 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-cask install freemind
-cask install skype
+cask install google-chrome
 
 ## caskroom/versions
 tap caskroom/versions
-cask install adobe-reader-ja
+cask install firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
 
-# App Store applications
-appstore GarageBand
-appstore iMovie
-appstore Janetter
-appstore Keynote
-appstore LINE
-appstore Microsoft Remote Desktop
-appstore Numbers
-appstore Pages
+# Other Homebrew packages
+install libyaml
+install openssl
+install readline
+install ruby
