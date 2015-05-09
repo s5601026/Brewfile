@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install blender
 cask install google-chrome
 
 ## caskroom/versions
@@ -19,3 +20,8 @@ install libyaml
 install openssl
 install readline
 install ruby
+
+# App Store applications
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
