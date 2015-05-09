@@ -3,23 +3,23 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install blender
-cask install google-chrome
+brew brew-cask
+cask blender
+cask google-chrome
 
 ## caskroom/versions
 tap caskroom/versions
-cask install firefox-ja
+cask firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install libyaml
-install openssl
-install readline
-install ruby
+brew libyaml
+brew openssl
+brew readline
+brew ruby
 
 # App Store applications
 appstore GarageBand
