@@ -20,3 +20,8 @@ brew libyaml
 brew openssl
 brew readline
 brew ruby
+
+# App Store applications
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
