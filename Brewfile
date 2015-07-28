@@ -3,20 +3,20 @@
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
-cask blender
-cask google-chrome
+install brew-cask
+cask install blender
+cask install google-chrome
 
 ## caskroom/versions
 tap caskroom/versions
-cask firefox-ja
+cask install firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
-brew brew-file
+install brew-file
 
 # Other Homebrew packages
-brew libyaml
-brew openssl
-brew readline
-brew ruby
+install libyaml
+install openssl
+install readline
+install ruby
